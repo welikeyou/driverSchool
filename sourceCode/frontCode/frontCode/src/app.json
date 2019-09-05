@@ -1,0 +1,22 @@
+{
+  "pages": [ 
+    
+    "pages/validate/main",
+    "pages/myIndex/main",
+    "pages/chooseTime/main",  
+    "pages/userinfo/main",
+    "pages/myForumHome/main",
+    "pages/schoolValidate/main",
+    "pages/changeTime/main",
+    "pages/home2/main",
+    "pages/like/main",
+    "pages/share/main"
+  
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "驾校通",
+    "navigationBarTextStyle": "black"
+  }
+}
